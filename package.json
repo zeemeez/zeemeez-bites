@@ -1,0 +1,19 @@
+{
+  "name": "biteme-by-zeemeez",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "formidable": "^3.9.0",
+    "node-fetch": "^2.6.7",
+    "form-data": "^4.0.0",
+    "sharp": "^0.32.4",
+    "next": "13.4.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
